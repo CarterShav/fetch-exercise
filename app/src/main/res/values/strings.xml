@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FetchCodingExercise</string>
+    <string name="header">Carter Shavitz Item List</string>
 </resources>
